@@ -1,5 +1,4 @@
-# Project Name
-Movie Recommendation System using R
+# Movie Recommendation System
 
 #### -- Project Status: [Completed]
 
