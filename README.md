@@ -7,7 +7,7 @@
 - R language will be used through the project along with it's libraries, as it is also one of the most widely used language in data science field.
 
 ## Project Motivation
-
+My love for watching movieson Amazon Prime and Netflix, got me curious about their powerful recommendation system for movies and TV shows which keeps getting accurate everytime I finish watching a movie, so I tried to come up with a recommender system of my own.
 
 ### Methods Used
 - Data Visualization
