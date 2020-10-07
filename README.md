@@ -3,8 +3,10 @@
 #### -- Project Status: [Completed]
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+The purpose of this project is to create a Movie recommendation system with the help of an item-based collborative filtering system.
+* R language will be used through the project along with it's libraries, as it is also one of the most widely used language in data science field.
 
+##
 
 ### Methods Used
 - Data Visualization
