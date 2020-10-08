@@ -25,7 +25,4 @@ My love for watching movies on Amazon Prime and Netflix, got me curious about th
 ### R Libraries
 - ggplot, Recommender Lab, etc.
 
-## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
-
 ## Results
