@@ -24,5 +24,3 @@ My love for watching movies on Amazon Prime and Netflix, got me curious about th
 
 ### R Libraries
 - ggplot, Recommender Lab, etc.
-
-## Results
