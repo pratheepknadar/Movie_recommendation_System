@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-#### Project Status: [100%]
+#### Project Status: [100%].
 
 ## Project Objective
 - The purpose of this project is to create a Movie recommendation system with the help of an item-based collborative filtering system.
